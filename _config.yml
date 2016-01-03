@@ -1,0 +1,28 @@
+name: Rebekah Arnold Realtor
+favicon: null
+layout_spectrum: 0.4690335541963577
+typography_spectrum: 0.5729298410005867
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.12996078724972904
+  lightness: 0.9025047698523849
+  saturation: 0.35180698125623167
+  rhythmicContrast: 0.8143858825787902
+purpose: []
